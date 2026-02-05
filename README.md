@@ -104,11 +104,10 @@ Two dashboards were built to support different levels of decision-making.
 ## Repository Structure
 
 pizza-sales-analytics/
-│
 ├── sql/
 │ ├── kpi_calculations.sql
 │ ├── best_worst_sellers.sql
-│ ├── hourly_weekly_trends.sql
+│ └── hourly_weekly_trends.sql
 │
 ├── data/
 │ └── pizza_sales.csv
